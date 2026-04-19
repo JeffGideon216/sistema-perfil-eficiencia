@@ -125,6 +125,6 @@ Este projeto foi desenvolvido com base em 10 anos de experiência operacional em
 **Jefferson da Silva Araújo**  
 Analista de Dados | Logística & Supply Chain | Python · SQL · Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson_Araujo-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jeffersona-analise-dados)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson_Araujo-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jefferson-analise-dados)
 [![GitHub](https://img.shields.io/badge/GitHub-JeffGideon216-181717?logo=github)](https://github.com/JeffGideon216)
 [![Portfólio BI](https://img.shields.io/badge/Portfólio-Power_BI-F2C811?logo=powerbi)]( https://bit.ly/4cDSp4x)
